@@ -1,0 +1,2 @@
+un objeto no puede llamar metodos de clase
+una clase no puede llamar metodos de instancia de clase
